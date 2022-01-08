@@ -1,0 +1,48 @@
+What is .NET?
+
+.NET is a framework that is used to create desktop, web, API, Services, Data Connection, tablet and mobile based application.
+
+for Desktop .NET use (Console, WindowsForms, WPF)
+
+for Web Application (ASP.NET Web Forms, ASP.NET MVC, ASP.NET MVC Core)
+
+for Web API (ASP.NET WEB API with RESTFull Web Services)
+
+for Web Services(.asmx)
+
+For WCF (Windows Communication Foundation)
+
+For WWF( Windows Workflow Foundation)
+
+for Data Connection( ADO.NET, ADO.NET Entity Framework (.edmx))
+
+
+What is MVC?
+
+It is design pattern that is used to distribute the project on different layers.
+
+M(Model):-  it is used to contain data classes and all Entity Framework part will be managed under Model Layer.
+
+
+V(View):-  It is used to contain view layer, razor and aspx both type of view file can be created.
+
+
+C(Controller):-  It is used to contain Business Layer of an application, it is intermediater between View and Models.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
